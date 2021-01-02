@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
+/*Pasting link here gives every page access to the fonts---Plus always to the top*/
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}     /* Makes further styling easier*/
+
+body{
+    font-family: Lato, sans-serif;
+    color: #777777;
+}
+
+h2{
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #555;
+}
